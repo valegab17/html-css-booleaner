@@ -1,0 +1,27 @@
+/*Generali*/
+html{
+    font-size: 16px;
+}
+body{
+    background-color: #fff;
+    margin: 0;
+}
+
+/*Header*/
+header{
+    height: 100px;
+ background-color: #4fa1ff ;
+ background-image: url("../img/pattern.png");
+ background-size:20% ;
+}
+
+#booleaner{
+    width: 15%;
+    padding: 30px 0 0;
+    margin-left: 5px;
+}
+
+/*Article*/
+h1{
+    font-size: 2.5rem;
+}
