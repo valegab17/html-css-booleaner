@@ -54,3 +54,24 @@ tr{
 #white{
     background-color: white;
 }
+
+/*Bottom Imgs*/
+#monitor{
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#graph{
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+}
+
